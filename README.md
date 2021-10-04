@@ -8,7 +8,7 @@ Write an application that prints out the receipt details for these shopping bask
 
 ## Run ⚙️
 
-Run the script typing `node index.js`, after cloning this repo `git clone` <https://github.com/omahin/Coding-Problem-Sales-Taxes>.
+Run the script typing `node index.js`, after cloning this repo `git clone` `https://github.com/omahin/Coding-Problem-Sales-Taxes`
 
 ```
 Input 1:
